@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/andreportfoliosite/static/css/main.8aa31f15.chunk.css",
+    "main.js": "/andreportfoliosite/static/js/main.ddfefc8e.chunk.js",
+    "main.js.map": "/andreportfoliosite/static/js/main.ddfefc8e.chunk.js.map",
+    "runtime-main.js": "/andreportfoliosite/static/js/runtime-main.515f2104.js",
+    "runtime-main.js.map": "/andreportfoliosite/static/js/runtime-main.515f2104.js.map",
+    "static/css/2.150d169a.chunk.css": "/andreportfoliosite/static/css/2.150d169a.chunk.css",
+    "static/js/2.a0bb3325.chunk.js": "/andreportfoliosite/static/js/2.a0bb3325.chunk.js",
+    "static/js/2.a0bb3325.chunk.js.map": "/andreportfoliosite/static/js/2.a0bb3325.chunk.js.map",
+    "static/js/3.26bb326c.chunk.js": "/andreportfoliosite/static/js/3.26bb326c.chunk.js",
+    "static/js/3.26bb326c.chunk.js.map": "/andreportfoliosite/static/js/3.26bb326c.chunk.js.map",
+    "index.html": "/andreportfoliosite/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/andreportfoliosite/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8aa31f15.chunk.css.map": "/andreportfoliosite/static/css/main.8aa31f15.chunk.css.map",
+    "static/js/2.a0bb3325.chunk.js.LICENSE.txt": "/andreportfoliosite/static/js/2.a0bb3325.chunk.js.LICENSE.txt",
+    "static/media/AlelaSite.fd3299b9.png": "/andreportfoliosite/static/media/AlelaSite.fd3299b9.png",
+    "static/media/DesignChallenge6UserProfile.69cf0f12.png": "/andreportfoliosite/static/media/DesignChallenge6UserProfile.69cf0f12.png",
+    "static/media/OpenSourceBank.47cc86c1.png": "/andreportfoliosite/static/media/OpenSourceBank.47cc86c1.png",
+    "static/media/Rosie4.b3a63404.jpg": "/andreportfoliosite/static/media/Rosie4.b3a63404.jpg",
+    "static/media/restaurantpic.4b7c089c.png": "/andreportfoliosite/static/media/restaurantpic.4b7c089c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.515f2104.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.a0bb3325.chunk.js",
+    "static/css/main.8aa31f15.chunk.css",
+    "static/js/main.ddfefc8e.chunk.js"
+  ]
+}
