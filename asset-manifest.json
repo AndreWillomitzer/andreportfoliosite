@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/andreportfoliosite/static/css/main.8aa31f15.chunk.css",
-    "main.js": "/andreportfoliosite/static/js/main.c9677c19.chunk.js",
-    "main.js.map": "/andreportfoliosite/static/js/main.c9677c19.chunk.js.map",
+    "main.js": "/andreportfoliosite/static/js/main.c24261ba.chunk.js",
+    "main.js.map": "/andreportfoliosite/static/js/main.c24261ba.chunk.js.map",
     "runtime-main.js": "/andreportfoliosite/static/js/runtime-main.515f2104.js",
     "runtime-main.js.map": "/andreportfoliosite/static/js/runtime-main.515f2104.js.map",
     "static/css/2.150d169a.chunk.css": "/andreportfoliosite/static/css/2.150d169a.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.a0bb3325.chunk.js",
     "static/css/main.8aa31f15.chunk.css",
-    "static/js/main.c9677c19.chunk.js"
+    "static/js/main.c24261ba.chunk.js"
   ]
 }
